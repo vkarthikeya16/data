@@ -1,0 +1,20 @@
+# MATLAB temporary files
+*.asv
+*.m~
+*.mex*
+
+# Results and cache
+*.mat
+results/
+temp/
+data_cache/
+for_R/
+figures/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Excel lock files
+~$*.xlsx
